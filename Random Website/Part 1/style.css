@@ -1,0 +1,98 @@
+body{
+  background-color: #f4f4f4;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+#heading #span1{
+  color: orangered;
+}
+
+#heading{
+  background-color: #333;
+  padding: 20px;
+  margin: 5px;
+  color: #fff;
+}
+
+#nav-bar{
+  background-color: #333;
+  padding: 20px;
+  margin: 5px;
+}
+
+#nav-bar li{
+  color: orangered;
+  display: inline;
+  padding: 100px;
+  margin: 5px;
+}
+
+#nav-bar li:hover{
+  color: #fff;
+}
+
+#paragraph{
+  background-color: steelblue;
+  font-size: 24px;
+  padding: 10px;
+  margin: 5px;
+}
+
+#form{
+  background-color: #333;
+  padding: 50px;
+  margin: 5px;
+}
+
+#form #Heading2{
+  color: orangered;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#form #email{
+  border: 5px solid orangered;
+  padding: 10px;
+  margin: 5px;
+}
+
+#form #btn{
+  background-color: orange;
+  padding: 10px;
+  margin: 5px;
+  font-weight: bold;
+}
+
+#introduction{
+  background-color: #333;
+  padding: 10px;
+  margin: 5px;
+}
+
+#introduction h2{
+  color: orangered;
+}
+
+#introduction p{
+  color: #fff;
+  font-weight: bold;
+}
+
+#introduction #link1{
+  color: lightblue;
+  font-weight: bold;
+}
+
+#pricing{
+  background-color: lightblue;
+  padding: 10px;
+  margin: 5px;
+}
+
+#footer{
+  background-color: orangered;
+  padding: 10px;
+  margin: 5px;
+  font-weight: bold;
+}
