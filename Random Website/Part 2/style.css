@@ -1,0 +1,41 @@
+body{
+  background-color: #333;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+#container #heading2{
+  color: orangered;
+  padding: 10px;
+  margin: auto;
+}
+
+#nav2 li:hover{
+  color: #fff;
+}
+
+#nav2 li{
+  color: orangered;
+  display: inline;
+  padding: 100px;
+  margin: auto;
+}
+
+#work2{
+  color: orangered;
+  padding: 10px;
+  margin: auto;
+}
+
+#paragraph2{
+  color: #fff;
+  padding: 10px;
+  margin: auto;
+}
+
+#footer2{
+  background-color: orangered;
+  padding: 10px;
+  margin: auto;
+}
